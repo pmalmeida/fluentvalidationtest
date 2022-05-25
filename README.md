@@ -20,7 +20,7 @@ namespace Core.Validators
 ```
 
 
-## `DependencyInjection.cs` Fluent Api Dependency Injection
+## `DependencyInjection.cs` Dependency Injection
 ```csharp
 using FluentValidation.AspNetCore;
 using Microsoft.Extensions.DependencyInjection;
